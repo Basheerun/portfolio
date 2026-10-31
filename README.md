@@ -3,7 +3,7 @@
 A modern, high-performance developer portfolio showcasing full-stack applications, intelligent systems, and interactive UI engineering.
 
 ## Live Site
-- **URL**: https://YOUR-SITE-URL/
+- **URL**: http://localhost:5173/
 
 ## Tech Stack
 - **Framework**: React 19

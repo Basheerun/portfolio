@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-SITE-URL/sitemap.xml
+Sitemap: http://localhost:5173/sitemap.xml
 
