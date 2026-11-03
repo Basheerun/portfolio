@@ -3,7 +3,7 @@
 A modern, high-performance developer portfolio showcasing full-stack applications, intelligent systems, and interactive UI engineering.
 
 ## Live Site
-- **URL**: http://localhost:5173/
+- **URL**: https://portfolio-basheerun.vercel.app/
 
 ## Tech Stack
 - **Framework**: React 19
